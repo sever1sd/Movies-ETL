@@ -1,6 +1,10 @@
 #adding config.py
 config.py
 
+movies_metadata.csv
+ratings.csv
+wikipedia-movies.json
+
 #addint additional files
 API_practice.ipynb
 random_numbers.ipynb
