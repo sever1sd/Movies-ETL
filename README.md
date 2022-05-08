@@ -14,6 +14,6 @@ This repository was created to provide the necessary data for a Hackathon challe
 4. Data was loaded into an SQL database using PostgreSQL and pgAdmin
 5. Data load into pgAdmin was validated, as seen below:
 
-![alt text]()
+![alt text](https://github.com/sever1sd/Movies-ETL/blob/36c0d0ced18f4c016532bf469ea75c8f9f55334d/Resources/movies_query.png)
 
-![alt_text]()
+![alt_text](https://github.com/sever1sd/Movies-ETL/blob/36c0d0ced18f4c016532bf469ea75c8f9f55334d/Resources/ratings_query.png)
